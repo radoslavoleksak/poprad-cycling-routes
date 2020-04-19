@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
 {% include mapFrame.html code="ranepaneno" %}
+Test
+<iframe style="border:none" src="https://sk.frame.mapy.cz/s/ranepaneno" width="700" height="466" frameborder="0"></iframe>
 
 You can use the [editor on GitHub](https://github.com/radoslavoleksak/poprad-cycling-routes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
