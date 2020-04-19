@@ -21,3 +21,11 @@
     mapDetail="fomesapaza"
     gpxName="PP-Lopusna-BielyPotok-CiernyVahSN-CVHN-Vazec-Strba-Lucivna-PP.gpx"
 %}
+
+{% 
+    include route.md 
+    title="Poprad - Batizovce - Gerlachov - Tatr. Polianka - Sliezsky dom - Tatr. Polianka - Starý Smokovec - Horný Smokovec - Les - Nová Lesná - Veľký Slavkov - Poprad"
+    mapFrame="cazolohegu"
+    mapDetail="molenokabu"
+    gpxName="PP-Batiz-Gerlachov-TPol-SDom-TPol-SSmokovec-HSmokovec-Les-NLesna-VSlavkov-PP.gpx"
+%}
